@@ -1,0 +1,8 @@
+clean general
+clean bedroom
+do washing
+add new contacts
+ride a bike
+clean auto
+clean bicycle
+do the laundry
